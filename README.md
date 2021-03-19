@@ -1,9 +1,5 @@
-<!---
-mrugesh1999/mrugesh1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h2>Hello, I'm Mrugesh Shah! <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47mc6dopfp7ekny85sycdz92qbr3jd2ivd6sboaxzw&rid=giphy.gif" width="25"></h2>
-<img align='right' src="https://media.giphy.com/media/2g8EYDN0VWFMY/giphy.gif" width="230">
+<img align='right' src="https://media3.giphy.com/media/413CrRJxrDA7g85mrm/giphy.gif?cid=ecf05e47c275nvqyqu3rl5avn6qtnadrg8wqllgz4ztl125c&rid=giphy.gif" width="230">
 
 
 <p><em>Studying M. Eng. Robotics at <a href="https://robotics.umd.edu/education/master-engineering-degree">UMD</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
