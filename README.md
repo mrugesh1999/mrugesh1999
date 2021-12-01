@@ -6,9 +6,9 @@
 </em></p>
 
 - 🔭 I’m currently looking for internship.
-- 🌱 I’m currently taking perception, path planning and ROS with python in my first sememster.
+- 🌱 I’m currently working in the field of perception, path planning and ROS with python and C++.
 - 👯 I’m looking for internship and jobs related to Python based Computer Vision Development Projects in automobile industry.
-- 👯 I’m open to work on Software development of High throughput Automated Liquid handling Instruments used in Biomedical Industry.
+- 👯 I’m open to work on Software development for Autonomus Systems used in Biomedical Industry.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: 
 
